@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Nunito';
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Nunito-BlackItalic.ttf') format('truetype');
+}
+
+* {
+  font-family: 'Nunito', var(--default-font) !important;
+}
