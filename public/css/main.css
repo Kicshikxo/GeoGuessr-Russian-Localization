@@ -1,15 +1,15 @@
 @font-face {
-  font-family: 'Rubiko';
+  font-family: 'Rubik';
   src: url('chrome-extension://__MSG_@@extension_id__/fonts/Rubik-Bold.woff2') format('woff2');
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Rubiko';
+  font-family: 'Rubik';
   src: url('chrome-extension://__MSG_@@extension_id__/fonts/Rubik-BoldItalic.woff2') format('woff2');
   font-style: italic;
 }
 
 * {
-  font-family: 'Rubiko', var(--default-font) !important;
+  font-family: 'Rubik', var(--default-font) !important;
 }
