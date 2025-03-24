@@ -1,8 +1,15 @@
 @font-face {
-  font-family: 'Nunito';
-  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Nunito-BlackItalic.ttf') format('truetype');
+  font-family: 'Rubiko';
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Rubik-Bold.woff2') format('woff2');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rubiko';
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Rubik-BoldItalic.woff2') format('woff2');
+  font-style: italic;
 }
 
 * {
-  font-family: 'Nunito', var(--default-font) !important;
+  font-family: 'Rubiko', var(--default-font) !important;
 }

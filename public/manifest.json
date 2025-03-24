@@ -39,7 +39,8 @@
     {
       "resources": [
         "js/inject.js",
-        "fonts/Nunito-BlackItalic.ttf"
+        "fonts/Rubik-Bold.woff2",
+        "fonts/Rubik-BoldItalic.woff2"
       ],
       "matches": [
         "https://www.geoguessr.com/*"
