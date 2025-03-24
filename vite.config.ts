@@ -4,6 +4,7 @@ export default defineConfig({
   build: {
     outDir: 'dist',
     emptyOutDir: true,
+    chunkSizeWarningLimit: 2048,
     rollupOptions: {
       input: {
         main: './src/main.ts',
