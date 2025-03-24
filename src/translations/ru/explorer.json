@@ -1,0 +1,16 @@
+{
+  "explorer.progress": "Прогресс",
+  "explorer.gold-medal": "Золотая медаль",
+  "explorer.this-is-explorer-mode": "Это режим исследователя",
+  "explorer.title": "Режим исследователя",
+  "explorer.points": "{0} очк.",
+  "explorer.best-score": "Лучший результат",
+  "explorer.do-your-best-and-earn-medals": "Покажи лучший результат, играй в одиночном режиме и зарабатывай медали.",
+  "explorer.missing-a-country-more-will-be-added": "Какой-то страны не хватает? Мы добавляем новые страны регулярно!",
+  "explorer.pick-a-country-to-play": "Выбери страну для игры на карте или из списка ниже.",
+  "explorer.usa": "США",
+  "explorer.medal": "Медаль",
+  "explorer.track-your-progess": "Отслеживай свой общий прогресс. Сможешь покрыть мир золотом?",
+  "explorer.start-collecting-medals": "Начни собирать медали",
+  "explorer.collected-medals": "Собранные медали"
+}

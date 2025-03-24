@@ -1,0 +1,12 @@
+{
+  "youtube-subscription-promo.landing-header": "Получите награду за подписку на YouTube!",
+  "youtube-subscription-promo.landing-body": "Будьте в курсе последних обновлений и новостей о Чемпионате мира — подпишитесь на наш YouTube-канал. В знак благодарности вы получите эксклюзивный YouTube Космический Шлем, чтобы показать свою поддержку в игре!",
+  "youtube-subscription-promo.verify-button-text": "Подтвердить подписку",
+  "youtube-subscription-promo.subscribe-at": "Подписаться на",
+  "youtube-subscription-promo.fail-header": "Хм, точно подписаны?",
+  "youtube-subscription-promo.fail-body": "Мы не смогли подтвердить вашу подписку на YouTube. Убедитесь, что вы подписаны на наш канал с той же учетной записи Google, которую использовали для проверки, и попробуйте ещё раз.",
+  "youtube-subscription-promo.success-header": "Спасибо за подписку!",
+  "youtube-subscription-promo.success-body": "YouTube Космический Шлем теперь ваш! Загляните в редактор аватара и примерьте его.",
+  "youtube-subscription-promo.avatar-editor-button-text": "Редактор аватара",
+  "youtube-subscription-promo.legal-notice": "Важно: Мы используем информацию с YouTube только для выдачи вашей награды. Данные не хранятся и не передаются третьим лицам. Мы строго соблюдаем {0} (включая требования ограниченного использования) для вашей безопасности."
+}

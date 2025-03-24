@@ -1,0 +1,20 @@
+{
+  "tournaments.tournaments": "Tournaments",
+  "tournaments.winners": "Winners",
+  "tournaments.weekly-schedule": "Weekly schedule",
+  "tournaments.results": "Results",
+  "tournaments.tournament-has-started": "Tournament has started!",
+  "tournaments.tournament-starts-in-x-countdown": "Tournament starts in {0}",
+  "tournaments.registration-opens-in-x-countdown": "Registration opens in {0}",
+  "tournaments.registration-opens-at-x": "Registration opens at {0}",
+  "tournaments.plus-x-others": "+ {0} others",
+  "tournaments.register": "Register",
+  "tournaments.leave": "Leave",
+  "tournaments.play": "Play!",
+  "tournaments.how-it-works": "How it works",
+  "tournaments.overview": "Overview",
+  "tournaments.community-rules": "Community rules",
+  "tournaments.tournament-starts-at-x": "Tournament starts at {0}",
+  "tournaments.starts-at-x": "Starts at {0}",
+  "tournaments.view": "View"
+}

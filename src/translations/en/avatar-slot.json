@@ -1,0 +1,21 @@
+{
+  "avatar-slot.hair": "Hair",
+  "avatar-slot.upper-body": "Upper body",
+  "avatar-slot.lower-body": "Lower body",
+  "avatar-slot.mask": "Mask",
+  "avatar-slot.eyes": "Eyes",
+  "avatar-slot.mouth": "Mouth",
+  "avatar-slot.hat": "Hat",
+  "avatar-slot.skin": "Skin color",
+  "avatar-slot.beard": "Beard",
+  "avatar-slot.special": "Special",
+  "avatar-slot.achievements": "Achievements",
+  "avatar-slot.animation-win": "Winning animation",
+  "avatar-slot.animation-emote-confused": "Confused emote animation",
+  "avatar-slot.animation-emote-cry": "Crying emote-animation",
+  "avatar-slot.animation-emote-gg": "GG emote animation",
+  "avatar-slot.animation-emote-happy": "Happy emote animation",
+  "avatar-slot.animation-emote-mindblown": "Mindblown emote animation",
+  "avatar-slot.animation-emote-wave": "Waving emote animation",
+  "avatar-slot.animation-emote-cool": "Cool emote animation"
+}

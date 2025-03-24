@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "GeoGuessr Russian Localization",
+  "name": "GeoGuessr: Russian Localization",
   "version": "1.0.0",
   "description": "Переводит интерфейс GeoGuessr на русский язык",
   "icons": {

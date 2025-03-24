@@ -1,0 +1,17 @@
+{
+  "search.searching": "Поиск...",
+  "search.search-for-other-players-or-maps": "Ищите других игроков или карты",
+  "search.maps": "Карты",
+  "search.pin": "Закрепить",
+  "search.failed-to-search-for-query": "Не удалось выполнить поиск по запросу \"{0}\". Попробуйте ещё раз.",
+  "search.official-map": "Официальная карта от {0}",
+  "search.created-by-you": "Создано вами",
+  "search.more": "Ещё...",
+  "search.you-need-to-be-logged-in-to-see-this-page": "Войдите в аккаунт, чтобы просматривать эту страницу.",
+  "search.users": "Игроки",
+  "search.no-results-for-query": "По запросу \"{0}\" ничего не найдено",
+  "search.search": "Поиск",
+  "search.all": "Все",
+  "search.likes": "Лайки",
+  "search.created-by-user": "Создано {0}"
+}

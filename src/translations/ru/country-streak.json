@@ -1,0 +1,20 @@
+{
+  "country-streak.round-finished-title": "Верно!",
+  "country-streak.game-settings": "Настройки игры",
+  "country-streak.play": "Играть",
+  "country-streak.title": "Серия стран",
+  "country-streak.description": "Сколько стран подряд ты сможешь угадать?",
+  "country-streak.streak-ends-at-singular": "Твоя серия закончилась на {0} стране.",
+  "country-streak.lightning-bolt": "Иконка молнии",
+  "country-streak.you-are-tied-in-a-challenge": "Сейчас у тебя ничья с {0}.",
+  "country-streak.streak-at-singular": "Твоя серия — {0} страна.",
+  "country-streak.streak-ends-at-plural": "Твоя серия закончилась на {0} странах.",
+  "country-streak.challenge-you-are-currently-in-the-lead": "Ты сейчас в лидерах!",
+  "country-streak.start-next-round-button-label": "Следующий раунд",
+  "country-streak.streak-at-plural": "Твоя серия — {0} стран.",
+  "country-streak.first-round-finished-title": "Первый раунд пройден!",
+  "country-streak.show-summary-button-label": "Показать итоги",
+  "country-streak.your-best-streak": "Твой лучший результат",
+  "country-streak.go-back-button-label": "На главную",
+  "country-streak.logo-image-alt": "Логотип режима «Серия стран»"
+}

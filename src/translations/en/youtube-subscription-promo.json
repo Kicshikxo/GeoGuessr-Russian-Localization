@@ -1,0 +1,12 @@
+{
+  "youtube-subscription-promo.landing-header": "Get your YouTube subscriber reward!",
+  "youtube-subscription-promo.landing-body": "Stay ahead with the latest updates and World Cup news by subscribing to our YouTube channel. As a token of our appreciation, you'll receive the exclusive YouTube Space Helmet to showcase your support in-game!",
+  "youtube-subscription-promo.verify-button-text": "Verify subscription",
+  "youtube-subscription-promo.subscribe-at": "Subscribe at",
+  "youtube-subscription-promo.fail-header": "Hmm, did you really subscribe?",
+  "youtube-subscription-promo.fail-body": "We couldn't verify your YouTube subscription. Please ensure you're subscribed to our channel with the same Google account you used for verification and try again.",
+  "youtube-subscription-promo.success-header": "Thanks for subscribing!",
+  "youtube-subscription-promo.success-body": "The YouTube Space Helmet is yours! Head over to the avatar editor and give it a try.",
+  "youtube-subscription-promo.avatar-editor-button-text": "Avatar editor",
+  "youtube-subscription-promo.legal-notice": "Note: We only use the information from YouTube to be able to process your reward. It's never stored or shared, and we strictly follow {0} (including the Limited Use requirements) for your safety."
+}

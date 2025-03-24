@@ -1,0 +1,9 @@
+{
+  "extensions.description-extenssr": "Extenssr allows you to play co-op modes, add map filter effects, view exact locations for completed BR rounds, and bookmark locations.",
+  "extensions.description-map-making-app": "An advanced map maker for GeoGuessr, including features like location tagging, official coverage filter, pano ID support, and more.",
+  "extensions.description-mapgenerator": "MapGenerator allows you to generate locations based on multiple criteria like camera generation, intersections, countries, and more.",
+  "extensions.by": "By",
+  "extensions.page": "Page",
+  "extensions.description-chatguessr": "ChatGuessr lets streamers play GeoGuessr with their viewers. Viewers can submit their guesses, and they appear on the screen after the round is over, creating an interactive and engaging experience for everyone involved.",
+  "extensions.description-radio-app": "GeoGuessr Radio introduces a radio widget to Classic Maps games, which plays radio stations from the country of the current location."
+}

@@ -1,0 +1,20 @@
+{
+  "tournaments.tournaments": "Турниры",
+  "tournaments.winners": "Победители",
+  "tournaments.weekly-schedule": "Расписание на неделю",
+  "tournaments.results": "Результаты",
+  "tournaments.tournament-has-started": "Турнир начался!",
+  "tournaments.tournament-starts-in-x-countdown": "Турнир начнётся через {0}",
+  "tournaments.registration-opens-in-x-countdown": "Регистрация откроется через {0}",
+  "tournaments.registration-opens-at-x": "Регистрация откроется в {0}",
+  "tournaments.plus-x-others": "+ ещё {0}",
+  "tournaments.register": "Зарегистрироваться",
+  "tournaments.leave": "Покинуть",
+  "tournaments.play": "Играть!",
+  "tournaments.how-it-works": "Как это работает",
+  "tournaments.overview": "Обзор",
+  "tournaments.community-rules": "Правила сообщества",
+  "tournaments.tournament-starts-at-x": "Турнир начнётся в {0}",
+  "tournaments.starts-at-x": "Начало в {0}",
+  "tournaments.view": "Посмотреть"
+}

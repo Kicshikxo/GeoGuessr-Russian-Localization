@@ -1,0 +1,10 @@
+{
+  "globetrotter-turbo-mode.turbo-mode": "Турборежим",
+  "globetrotter-turbo-mode.how-to-play": "Как играть",
+  "globetrotter-turbo-mode.10-locations-comma-10-seconds-each": "10 локаций, по 10 секунд на каждую",
+  "globetrotter-turbo-mode.guess-with-circle-cursor": "Делайте догадки с помощью кругового курсора",
+  "globetrotter-turbo-mode.only-correct-answers-cound": "Засчитываются только правильные ответы",
+  "globetrotter-turbo-mode.correct": "Правильно",
+  "globetrotter-turbo-mode.you-got-x-correct-answers-exclamation": "Вы угадали {0} мест!",
+  "globetrotter-turbo-mode.turbo-bonus-colon-x": "Турбобонус: {0}"
+}

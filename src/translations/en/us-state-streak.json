@@ -1,0 +1,8 @@
+{
+  "us-state-streak.description": "How many US states in a row can you get right?",
+  "us-state-streak.title": "US State Streak",
+  "us-state-streak.streak-at-plural": "Your streak is now at {0} states.",
+  "us-state-streak.streak-at-singular": "Your streak is now at {0} state.",
+  "us-state-streak.streak-ends-at-plural": "Your streak ended at {0} states.",
+  "us-state-streak.streak-ends-at-singular": "Your streak ended at {0} state."
+}

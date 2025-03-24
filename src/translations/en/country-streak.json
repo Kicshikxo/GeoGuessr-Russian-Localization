@@ -1,0 +1,20 @@
+{
+  "country-streak.round-finished-title": "That's correct!",
+  "country-streak.game-settings": "Game settings",
+  "country-streak.play": "Play",
+  "country-streak.title": "Country Streak",
+  "country-streak.description": "How many countries in a row can you get right?",
+  "country-streak.streak-ends-at-singular": "Your streak ended at {0} country.",
+  "country-streak.lightning-bolt": "Lightning bolt icon",
+  "country-streak.you-are-tied-in-a-challenge": "You are currently tied for the lead with {0}.",
+  "country-streak.streak-at-singular": "Your streak is now at {0} country.",
+  "country-streak.streak-ends-at-plural": "Your streak ended at {0} countries.",
+  "country-streak.challenge-you-are-currently-in-the-lead": "You are currently in the lead!",
+  "country-streak.start-next-round-button-label": "Next round",
+  "country-streak.streak-at-plural": "Your streak is now at {0} countries.",
+  "country-streak.first-round-finished-title": "First one down!",
+  "country-streak.show-summary-button-label": "View summary",
+  "country-streak.your-best-streak": "Your best streak",
+  "country-streak.go-back-button-label": "To startpage",
+  "country-streak.logo-image-alt": "Country Streak logo"
+}

@@ -1,4 +1,4 @@
-import { getNamespacedTranslations } from './translations'
+import { getNamespacedTranslations, ru } from './translations'
 import { NextInstance } from './types'
 
 class GeoguessrTranslator {
@@ -22,7 +22,7 @@ class GeoguessrTranslator {
     if (!component) return
 
     const { translationProps } = component.props
-    const translations = getNamespacedTranslations(translationProps.namespaces)
+    const translations = getNamespacedTranslations(ru, translationProps.namespaces)
 
     Object.assign(translationProps.translations, translations)
 
@@ -31,7 +31,7 @@ class GeoguessrTranslator {
   }
 }
 
-;(() => {
+window.addEventListener('load', () => {
   const geoguessrEnvironment: string | undefined = (window as any)?.__GEOGUESSR_ENVIRONMENT__
   if (!geoguessrEnvironment) {
     console.error('GeoGuessr Russian Localization: GeoGuessr environment not found')
@@ -50,4 +50,4 @@ class GeoguessrTranslator {
   geoguessrTranslator.subscribeToRouteChange()
 
   console.log('GeoGuessr Russian Localization: Loaded')
-})()
+})

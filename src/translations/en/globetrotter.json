@@ -1,0 +1,16 @@
+{
+  "globetrotter.description": "Guess your way through cities, explore new countries, and travel around the world in this global adventure!",
+  "globetrotter.modal-difficulty-heading": "Difficulty",
+  "globetrotter.modal-difficulty-level-easy": "Easy",
+  "globetrotter.modal-difficulty-level-hard": "Hard",
+  "globetrotter.modal-difficulty-level-impossible": "Impossible",
+  "globetrotter.modal-difficulty-level-medium": "Medium",
+  "globetrotter.modal-game-difficulty-level-easy-description": "Time limit 3 minutes, move around as you like.",
+  "globetrotter.modal-game-difficulty-level-hard-description": "Time limit 90 seconds, no moving.",
+  "globetrotter.modal-game-difficulty-level-impossible-description": "Time limit 30 seconds, no moving.",
+  "globetrotter.modal-game-difficulty-level-medium-description": "Time limit 3 minutes, no moving.",
+  "globetrotter.modal-play-more-to-unlock": "Play more to unlock!",
+  "globetrotter.modal-start-new-trip": "Start new trip",
+  "globetrotter.modal-start-new-trip-help-text": "Complete a trip to unlock the next difficulty!",
+  "globetrotter.modal-start-new-trip-play-button": "Play"
+}

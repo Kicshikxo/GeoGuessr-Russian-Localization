@@ -1,0 +1,16 @@
+{
+  "globetrotter.description": "Отгадывайте города, исследуйте новые страны и путешествуйте по миру в этом глобальном приключении!",
+  "globetrotter.modal-difficulty-heading": "Сложность",
+  "globetrotter.modal-difficulty-level-easy": "Лёгкая",
+  "globetrotter.modal-difficulty-level-hard": "Сложная",
+  "globetrotter.modal-difficulty-level-impossible": "Невозможная",
+  "globetrotter.modal-difficulty-level-medium": "Средняя",
+  "globetrotter.modal-game-difficulty-level-easy-description": "Лимит времени: 3 минуты, свободное передвижение.",
+  "globetrotter.modal-game-difficulty-level-hard-description": "Лимит времени: 90 секунд, без передвижения.",
+  "globetrotter.modal-game-difficulty-level-impossible-description": "Лимит времени: 30 секунд, без передвижения.",
+  "globetrotter.modal-game-difficulty-level-medium-description": "Лимит времени: 3 минуты, без передвижения.",
+  "globetrotter.modal-play-more-to-unlock": "Играйте больше, чтобы разблокировать!",
+  "globetrotter.modal-start-new-trip": "Начать новое путешествие",
+  "globetrotter.modal-start-new-trip-help-text": "Завершите путешествие, чтобы открыть следующий уровень сложности!",
+  "globetrotter.modal-start-new-trip-play-button": "Играть"
+}

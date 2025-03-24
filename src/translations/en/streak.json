@@ -1,0 +1,17 @@
+{
+  "streak.country-streak": "Country streak",
+  "streak.player-x-is-currently-in-the-lead-with-multiple-rights": "{0} is currently in the lead with {1} correct guesses.",
+  "streak.streaks": "Streaks",
+  "streak.challenge-you-are-currently-in-the-lead-with-no-score": "Even though you didn't get it right you are still in the lead!",
+  "streak.player-x-is-currently-in-the-lead-with-one-right": "{0} is currently in the lead with {1} correct guess.",
+  "streak.country": "Country",
+  "streak.beat-your-best-streak": "Beat your best streak!",
+  "streak.us-state": "Us State",
+  "streak.us-state-streak": "US State Streak",
+  "streak.play": "Play",
+  "streak.how-many-countries-can-you-get": "How many countries or US States in a row can you get right?",
+  "streak.play-a-streak-game-to-start": "Play a streak game to get a streak going.",
+  "streak.back-to-streaks": "Back to Streaks",
+  "streak.community-link-description": "Looking for more streaks? Check out {0}!",
+  "streak.community-streaks": "Community Streaks"
+}

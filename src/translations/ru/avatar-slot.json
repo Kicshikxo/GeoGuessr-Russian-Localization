@@ -1,0 +1,21 @@
+{
+  "avatar-slot.hair": "Волосы",
+  "avatar-slot.upper-body": "Торс",
+  "avatar-slot.lower-body": "Ноги",
+  "avatar-slot.mask": "Маска",
+  "avatar-slot.eyes": "Глаза",
+  "avatar-slot.mouth": "Рот",
+  "avatar-slot.hat": "Шляпа",
+  "avatar-slot.skin": "Цвет кожи",
+  "avatar-slot.beard": "Борода",
+  "avatar-slot.special": "Особое",
+  "avatar-slot.achievements": "Достижение",
+  "avatar-slot.animation-win": "Анимация победы",
+  "avatar-slot.animation-emote-confused": "Анимация замешательства",
+  "avatar-slot.animation-emote-cry": "Анимация плача",
+  "avatar-slot.animation-emote-gg": "Анимация GG",
+  "avatar-slot.animation-emote-happy": "Анимация радости",
+  "avatar-slot.animation-emote-mindblown": "Анимация шока",
+  "avatar-slot.animation-emote-wave": "Анимация приветствия",
+  "avatar-slot.animation-emote-cool": "Анимация крутости"
+}

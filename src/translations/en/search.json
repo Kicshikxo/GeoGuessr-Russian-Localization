@@ -1,0 +1,17 @@
+{
+  "search.searching": "Searching...",
+  "search.search-for-other-players-or-maps": "Search for other players or maps",
+  "search.maps": "Maps",
+  "search.pin": "Pin",
+  "search.failed-to-search-for-query": "Failed to search for \"{0}\". Please try again.",
+  "search.official-map": "Official map by {0}",
+  "search.created-by-you": "Created by you",
+  "search.more": "More...",
+  "search.you-need-to-be-logged-in-to-see-this-page": "You need to be logged in to view this page.",
+  "search.users": "Players",
+  "search.no-results-for-query": "No results found for \"{0}\"",
+  "search.search": "Search",
+  "search.all": "All",
+  "search.likes": "Likes",
+  "search.created-by-user": "Created by {0}"
+}

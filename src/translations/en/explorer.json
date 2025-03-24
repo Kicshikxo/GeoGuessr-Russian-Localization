@@ -1,0 +1,16 @@
+{
+  "explorer.progress": "Progress",
+  "explorer.gold-medal": "Gold Medal",
+  "explorer.this-is-explorer-mode": "This is explorer mode",
+  "explorer.title": "Explorer mode",
+  "explorer.points": "{0} pts",
+  "explorer.best-score": "Best score",
+  "explorer.do-your-best-and-earn-medals": "Do your best, play the map in single player mode and earn medals.",
+  "explorer.missing-a-country-more-will-be-added": "Missing a country? More countries will be added continuously!",
+  "explorer.pick-a-country-to-play": "Pick a country to play from the map or the list below.",
+  "explorer.usa": "USA",
+  "explorer.medal": "Medal",
+  "explorer.track-your-progess": "Track your overall progress here. Can you cover the world in gold?",
+  "explorer.start-collecting-medals": "Start collecting medals",
+  "explorer.collected-medals": "Collected medals"
+}
