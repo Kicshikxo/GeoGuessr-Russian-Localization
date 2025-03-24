@@ -1,17 +1,17 @@
 {
-  "streak.country-streak": "Серия по странам",
+  "streak.country-streak": "Стрик по странам",
   "streak.player-x-is-currently-in-the-lead-with-multiple-rights": "{0} лидирует с {1} правильными ответами.",
-  "streak.streaks": "Серии",
+  "streak.streaks": "Подряд",
   "streak.challenge-you-are-currently-in-the-lead-with-no-score": "Вы всё ещё лидируете, даже если ответ был неправильным!",
   "streak.player-x-is-currently-in-the-lead-with-one-right": "{0} лидирует с {1} правильным ответом.",
-  "streak.country": "Страна",
-  "streak.beat-your-best-streak": "Побейте свою лучшую серию!",
-  "streak.us-state": "Штат США",
-  "streak.us-state-streak": "Серия по штатам США",
+  "streak.country": "Страны",
+  "streak.beat-your-best-streak": "Побейте свой лучший стрик!",
+  "streak.us-state": "Штаты США",
+  "streak.us-state-streak": "Стрик по штатам США",
   "streak.play": "Играть",
   "streak.how-many-countries-can-you-get": "Сколько стран или штатов США подряд вы сможете угадать?",
-  "streak.play-a-streak-game-to-start": "Начните игру на серии, чтобы запустить свою серию.",
-  "streak.back-to-streaks": "Назад к сериям",
+  "streak.play-a-streak-game-to-start": "Начните игру на стрик, чтобы запустить свой стрик.",
+  "streak.back-to-streaks": "Назад к стрикам",
   "streak.community-link-description": "Хотите больше испытаний? Загляните на {0}!",
-  "streak.community-streaks": "Серии сообщества"
+  "streak.community-streaks": "Стрики сообщества"
 }

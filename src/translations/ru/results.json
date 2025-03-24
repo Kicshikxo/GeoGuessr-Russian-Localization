@@ -1,5 +1,5 @@
 {
-  "results.country-streak-card-title": "Серия по странам",
+  "results.country-streak-card-title": "Стрик по странам",
   "results.failed-to-load-results": "Не удалось загрузить результаты.",
   "results.round-x": "Раунд {0}",
   "results.loading-score": "Загрузка очков...",
@@ -9,7 +9,7 @@
   "results.total-table-heading": "Итого",
   "results.show-friends-leaderboard": "Показать рейтинг среди друзей",
   "results.show-more": "Показать больше",
-  "results.us-states-streak-card-title": "Серия по штатам США",
+  "results.us-states-streak-card-title": "Стрик по штатам США",
   "results.highscore": "Рекорд",
   "results.you-must-finish-game-before-viewing-result": "Завершите игру, чтобы увидеть результаты.",
   "results.game-does-not-exist": "Этой игры не существует.",

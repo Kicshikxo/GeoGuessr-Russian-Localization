@@ -1,8 +1,8 @@
 {
   "us-state-streak.description": "Сколько штатов США подряд вы сможете угадать?",
-  "us-state-streak.title": "Серия штатов США",
-  "us-state-streak.streak-at-plural": "Ваша серия — {0} штатов.",
-  "us-state-streak.streak-at-singular": "Ваша серия — {0} штат.",
-  "us-state-streak.streak-ends-at-plural": "Ваша серия закончилась на {0} штатах.",
-  "us-state-streak.streak-ends-at-singular": "Ваша серия закончилась на {0} штате."
+  "us-state-streak.title": "Стрик штатов США",
+  "us-state-streak.streak-at-plural": "Ваш стрик — {0} штатов.",
+  "us-state-streak.streak-at-singular": "Ваш стрик — {0} штат.",
+  "us-state-streak.streak-ends-at-plural": "Ваш стрик закончилась на {0} штатах.",
+  "us-state-streak.streak-ends-at-singular": "Ваш стрик закончилась на {0} штате."
 }

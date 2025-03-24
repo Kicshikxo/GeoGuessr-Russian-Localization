@@ -1,7 +1,7 @@
 {
   "challenge.game-settings-no-moving-allowed-2": "Без передвижения",
   "challenge.game-description": "Вы получите 5 локаций по всему миру. Сможете ли вы определить точное место, где находитесь? Вперёд!",
-  "challenge.country-streak-challenge-title": "Вас вызвали на серию по странам",
+  "challenge.country-streak-challenge-title": "Вас вызвали на стрик по странам",
   "challenge.challenge-title": "Испытание",
   "challenge.zooming-allowed": "Приближение разрешено",
   "challenge.create-account": "Создать аккаунт",
@@ -15,7 +15,7 @@
   "challenge.you-need-account": "Чтобы сыграть в испытание GeoGuessr, вам нужен аккаунт. Но не волнуйтесь, регистрация займёт всего минуту.",
   "challenge.challenged-you-to-play": "{0} вызвал(а) вас на игру в GeoGuessr",
   "challenge.moving-allowed": "Передвижение разрешено",
-  "challenge.us-state-streak-challenge-title": "Вас вызвали на серию по штатам США",
+  "challenge.us-state-streak-challenge-title": "Вас вызвали на стрик по штатам США",
   "challenge.panning-allowed": "Повороты разрешены",
   "challenge.show-highscore": "Показать рекорд",
   "challenge.game-settings": "Настройки игры",
