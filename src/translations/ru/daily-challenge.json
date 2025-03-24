@@ -41,6 +41,6 @@
   "daily-challenge.streak-length": "Длина стрика",
   "daily-challenge.players": "{0} игроков",
   "daily-challenge.visit-shop": "Перейти в магазин",
-  "daily-challenge.position-verbose": "Ты занял {0} место из {1} участников, входишь в топ {2}%!",
+  "daily-challenge.position-verbose": "Ты занял(а) {0} место из {1} участников, входишь в топ {2}%!",
   "daily-challenge.position-short": "{0} место из {1} (топ {2}%)"
 }

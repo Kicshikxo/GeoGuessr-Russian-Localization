@@ -252,7 +252,7 @@
   "profile.enter-current-password-to-change": "Вы должны ввести текущий пароль, чтобы его изменить",
   "profile.failed-to-load-friends": "Не удалось загрузить друзей. Обновите страницу и попробуйте снова...",
   "profile.failed-to-send-verification": "Не удалось отправить email для подтверждения.",
-  "profile.hasnt-accepted-your-invitation": "Не принял ваше приглашение",
+  "profile.hasnt-accepted-your-invitation": "Не принял(а) ваше приглашение",
   "profile.payment-method": "Метод оплаты",
   "profile.remove": "Удалить",
   "profile.request-verification-reason": "Укажите, почему ваш аккаунт должен быть подтверждён",
