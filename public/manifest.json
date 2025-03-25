@@ -39,10 +39,10 @@
     {
       "resources": [
         "js/inject.js",
-        "fonts/Rubik-Medium.woff2",
-        "fonts/Rubik-MediumItalic.woff2",
-        "fonts/Rubik-Bold.woff2",
-        "fonts/Rubik-BoldItalic.woff2"
+        "fonts/UbuntuSans-Bold.woff2",
+        "fonts/UbuntuSans-BoldItalic.woff2",
+        "fonts/UbuntuSans-ExtraBold.woff2",
+        "fonts/UbuntuSans-ExtraBoldItalic.woff2"
       ],
       "matches": [
         "https://www.geoguessr.com/*"

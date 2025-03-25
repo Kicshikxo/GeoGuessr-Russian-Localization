@@ -1,33 +1,30 @@
 @font-face {
-  font-family: 'Rubik';
-  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Rubik-Medium.woff2') format('woff2');
+  font-family: 'Ubuntu Sans';
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/UbuntuSans-Bold.woff2') format('woff2');
   font-style: normal;
   font-display: swap;
 }
-
 @font-face {
-  font-family: 'Rubik';
-  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Rubik-MediumItalic.woff2') format('woff2');
+  font-family: 'Ubuntu Sans';
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/UbuntuSans-BoldItalic.woff2') format('woff2');
   font-style: italic;
   font-display: swap;
 }
-
 @font-face {
-  font-family: 'Rubik';
-  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Rubik-Bold.woff2') format('woff2');
+  font-family: 'Ubuntu Sans';
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/UbuntuSans-ExtraBold.woff2') format('woff2');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
 }
-
 @font-face {
-  font-family: 'Rubik';
-  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Rubik-BoldItalic.woff2') format('woff2');
+  font-family: 'Ubuntu Sans';
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/UbuntuSans-ExtraBoldItalic.woff2') format('woff2');
   font-weight: bold;
   font-style: italic;
   font-display: swap;
 }
 
 #__next * {
-  font-family: 'Rubik', var(--default-font) !important;
+  font-family: 'Ubuntu Sans', var(--default-font) !important;
 }
