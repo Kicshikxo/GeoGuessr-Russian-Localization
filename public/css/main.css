@@ -1,15 +1,33 @@
 @font-face {
   font-family: 'Rubik';
-  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Rubik-Bold.woff2') format('woff2');
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Rubik-Medium.woff2') format('woff2');
   font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Rubik';
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Rubik-MediumItalic.woff2') format('woff2');
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Rubik';
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Rubik-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'Rubik';
   src: url('chrome-extension://__MSG_@@extension_id__/fonts/Rubik-BoldItalic.woff2') format('woff2');
+  font-weight: bold;
   font-style: italic;
+  font-display: swap;
 }
 
-* {
+#__next * {
   font-family: 'Rubik', var(--default-font) !important;
 }

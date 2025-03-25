@@ -39,6 +39,8 @@
     {
       "resources": [
         "js/inject.js",
+        "fonts/Rubik-Medium.woff2",
+        "fonts/Rubik-MediumItalic.woff2",
         "fonts/Rubik-Bold.woff2",
         "fonts/Rubik-BoldItalic.woff2"
       ],
