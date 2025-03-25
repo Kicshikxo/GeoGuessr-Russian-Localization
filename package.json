@@ -9,9 +9,9 @@
   },
   "devDependencies": {
     "typescript": "5.8.2",
-    "vite": "6.2.2"
+    "vite": "6.2.3"
   },
   "dependencies": {
-    "@types/chrome": "^0.0.310"
+    "@types/chrome": "0.0.310"
   }
 }
