@@ -1,8 +1,7 @@
 import { getNamespacedTranslations, ru } from './translations'
 import { NextInstance } from './types'
 
-class GeoguessrTranslator {
-  private shallowRouteUpdate: boolean = false
+export class GeoguessrTranslator {
   constructor(private next: NextInstance) {}
 
   private getCurrentComponent() {
@@ -13,8 +12,7 @@ class GeoguessrTranslator {
     this.next.router.events.on('routeChangeComplete', this.updateTranslationProps.bind(this))
   }
   public updateTranslationProps() {
-    if (this.shallowRouteUpdate) {
-      this.shallowRouteUpdate = false
+    if (this.next.router._shallow) {
       return
     }
 
@@ -27,18 +25,17 @@ class GeoguessrTranslator {
     Object.assign(translationProps.translations, translations)
 
     this.next.router.replace(this.next.router.asPath, undefined, { shallow: true })
-    this.shallowRouteUpdate = true
   }
 }
 
-window.addEventListener('load', () => {
-  const geoguessrEnvironment: string | undefined = (window as any)?.__GEOGUESSR_ENVIRONMENT__
+const initializeGeoguessrTranslator = () => {
+  const geoguessrEnvironment = window.__GEOGUESSR_ENVIRONMENT__
   if (!geoguessrEnvironment) {
     console.error('GeoGuessr Russian Localization: GeoGuessr environment not found')
     return
   }
 
-  const next: NextInstance | undefined = (window as any)?.next
+  const { next } = window
   if (!next) {
     console.error('GeoGuessr Russian Localization: Next instance not found')
     return
@@ -49,5 +46,13 @@ window.addEventListener('load', () => {
   geoguessrTranslator.updateTranslationProps()
   geoguessrTranslator.subscribeToRouteChange()
 
-  console.log('GeoGuessr Russian Localization: Loaded')
-})
+  window.__GEOGUESSR_TRANSLATOR__ = geoguessrTranslator
+
+  console.log('GeoGuessr Russian Localization: Initialized')
+}
+
+if (document.readyState === 'complete') {
+  initializeGeoguessrTranslator()
+} else {
+  window.addEventListener('load', initializeGeoguessrTranslator)
+}
