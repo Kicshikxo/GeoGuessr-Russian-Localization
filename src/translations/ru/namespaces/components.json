@@ -477,7 +477,7 @@
   "components.billed-yearly": "Оплата ежегодно",
   "components.difficulty-level-medium": "Средний",
   "components.search": "Поиск",
-  "components.no-time-limit": "Без ограничения по времени",
+  "components.no-time-limit": "Без ограничения",
   "components.game-rate-limit": "Вы достигли лимита. Не волнуйтесь, немного подождите и попробуйте снова.",
   "components.game-rate-limit-title": "Притормози, ковбой!",
   "components.generic-error-title": "Произошла ошибка",
