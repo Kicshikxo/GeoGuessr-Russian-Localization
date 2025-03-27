@@ -23,7 +23,7 @@
   "lobby.options-no-pan": "Без поворотов",
   "lobby.power-ups-heading": "Бонусы",
   "lobby.waiting-for-host-to-start": "Ожидание {0} для начала игры...",
-  "lobby.options-lives": "{0} жизней",
+  "lobby.options-lives": "{0} жизни",
   "lobby.the-host": "хост",
   "lobby.waiting-for-players": "Ожидание ещё {0} {1} для начала.",
   "lobby.hosted-by": "Создатель игры: {0}",
