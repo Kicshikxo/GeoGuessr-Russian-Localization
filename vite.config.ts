@@ -7,8 +7,8 @@ export default defineConfig({
     chunkSizeWarningLimit: 2048,
     rollupOptions: {
       input: {
-        main: './src/main.ts',
-        inject: './src/inject.ts',
+        main: 'src/main.ts',
+        inject: 'src/inject.ts',
       },
       output: {
         format: 'es',
